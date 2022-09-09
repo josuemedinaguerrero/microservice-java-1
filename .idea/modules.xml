@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/carro-service/carro-service.iml" filepath="$PROJECT_DIR$/carro-service/carro-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-service/config-service.iml" filepath="$PROJECT_DIR$/config-service/config-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-service/eureka-service.iml" filepath="$PROJECT_DIR$/eureka-service/eureka-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/microservice - third.iml" filepath="$PROJECT_DIR$/.idea/microservice - third.iml" />
       <module fileurl="file://$PROJECT_DIR$/moto-service/moto-service.iml" filepath="$PROJECT_DIR$/moto-service/moto-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/usuario-service/usuario-service.iml" filepath="$PROJECT_DIR$/usuario-service/usuario-service.iml" />
